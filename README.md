@@ -7,13 +7,19 @@ Labeled training dataset contains 31962 tweets and its in the form of a csv form
 
 
 Libraries:
+
+
 pandas
 matplotlib
 seaborn
 scikit-learn
 
 Algorithm:
+
+
 Logistic Regression
 
 Model's current highest Accuracy Score:
+
+
 95.00
